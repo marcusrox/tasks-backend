@@ -6,4 +6,5 @@ module.exports = app => {
     app.use(cors({
         origin: '*'
     }))
+
 }
